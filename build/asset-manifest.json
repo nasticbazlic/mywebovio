@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mywebovio/static/css/main.06e90e98.css",
+    "main.js": "/mywebovio/static/js/main.b9e868b3.js",
+    "static/media/Bitmap.png": "/mywebovio/static/media/Bitmap.9307bfa72857dd7db0bb.png",
+    "static/media/Bitmap (1).png": "/mywebovio/static/media/Bitmap (1).27f297ebbb1425063805.png",
+    "static/media/Bitmap (2).png": "/mywebovio/static/media/Bitmap (2).480b74b792bebe652a74.png",
+    "static/media/Bitmap (3).png": "/mywebovio/static/media/Bitmap (3).5f5b551a50249deb6e60.png",
+    "static/media/action.png": "/mywebovio/static/media/action.663cbed3ef3c543d397b.png",
+    "static/media/Oval.svg": "/mywebovio/static/media/Oval.e6a5041681edff759299e182082c9ee1.svg",
+    "static/media/Oval (2).svg": "/mywebovio/static/media/Oval (2).aff94dd97f2ace18bd5b3e19f22dab52.svg",
+    "static/media/Oval (1).svg": "/mywebovio/static/media/Oval (1).43dd7119709346af2747241c649bc7ac.svg",
+    "static/media/Oval (3).svg": "/mywebovio/static/media/Oval (3).c5d9501e01e1cb1d92ee327f054ad803.svg",
+    "static/media/PhalenLeadership.svg": "/mywebovio/static/media/PhalenLeadership.7ec8ec6f5617e822ef9a0cd0fb84855a.svg",
+    "static/media/17_Jalen-Rose-Leadership-Academy-Logo.svg": "/mywebovio/static/media/17_Jalen-Rose-Leadership-Academy-Logo.d8829ab398949c83a879051182886212.svg",
+    "static/media/16_Andrew-Porter-Logo.svg": "/mywebovio/static/media/16_Andrew-Porter-Logo.3ebc567adf4bcb113df70114f2aef645.svg",
+    "static/media/Ideal.svg": "/mywebovio/static/media/Ideal.98502d012c4633fe8f01dd2cbd85477d.svg",
+    "static/media/Wal.svg": "/mywebovio/static/media/Wal.86d2ace312681e7efbe85f5b116322e2.svg",
+    "static/media/Logo (1).svg": "/mywebovio/static/media/Logo (1).df0d41b6dfe8105ce839cc47bf7b994a.svg",
+    "static/media/Logo.svg": "/mywebovio/static/media/Logo.d041c3ae6c4b64bc424744df59f3e69a.svg",
+    "static/media/arrow.svg": "/mywebovio/static/media/arrow.b15aa5a523751a2f80b0986dc809a876.svg",
+    "index.html": "/mywebovio/index.html",
+    "main.06e90e98.css.map": "/mywebovio/static/css/main.06e90e98.css.map",
+    "main.b9e868b3.js.map": "/mywebovio/static/js/main.b9e868b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e90e98.css",
+    "static/js/main.b9e868b3.js"
+  ]
+}
